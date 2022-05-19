@@ -9,5 +9,7 @@ Apps script is a cloud-based scripting language that is used for extending the f
 
 ## Types of apps script
 There are two types of apps scripts:
-1. `Bound apps script:` These are the scripts which are bounded to the specific google document.
-2. `Un-Bounded scripts:` These are the scripts Which are not bounded to any specific google document. And these scripts can be used by any of the other google documents.
+1. `Bound apps script:` 
+  * These are the scripts which are bounded to the specific google document.
+  * Boud scripts can not be detached from their documents. That script only work for that specific document. If, we want to use that bounded script for other document then we have to manually copy and paste that script for the other document use. 
+3. `Un-Bounded scripts:` These are the scripts Which are not bounded to any specific google document. And these scripts can be used by any of the other google documents.
